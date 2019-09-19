@@ -1,5 +1,5 @@
-# cisc108-f19-honors-test-repo
-Fork me!
+# Nitin's totally sexy test repository
+
 
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+I DJ for fun, I enjoy playing games, and I enjoy watching romance drama anime and having a good cry :)
